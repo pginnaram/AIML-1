@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import math
 
 #Read the data
-data = pd.read_csv("../data/Experiment_1_Dataset.csv", header=None)
+data = pd.read_csv("Experiment_1_Dataset.csv", header=None)
 X1 = []
 X2 = []
 Y = []
